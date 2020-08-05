@@ -1,0 +1,97 @@
+{
+  "year":"2019",
+  "frames": [
+    {
+      "type": "steel",
+      "price": "1100"
+    },
+    {
+      "type": "fiber",
+      "price": "700"
+    },
+    {
+      "type": "carbon fiber",
+      "price": "1800"
+    }
+  ],
+   "seats": [
+    {
+      "type": "racing",
+      "price": "600"
+    },
+    {
+      "type": "mountain",
+      "price": "980"
+    },
+    {
+      "type": "gel",
+      "price": "1100"
+    }
+  ],
+   "wheels": [
+    {
+      "type": "tubeless",
+      "price": "1300"
+    },
+    {
+      "type": "tubular",
+      "price": "500"
+    },
+    {
+      "type": "shallow",
+      "price": "100"
+    },
+    {
+      "type": "mid",
+      "price": "450"
+    },
+    {
+      "type": "deep",
+      "price": "750"
+    },
+    {
+      "type": "braking",
+      "price": "1200"
+    }
+  ],
+   "gears": [
+    {
+      "type": "single",
+      "price": "200"
+    },
+    {
+      "type": "fixed",
+      "price": "300"
+    },
+    {
+      "type": "hub",
+      "price": "450"
+    },
+    {
+      "type": "derailleur",
+      "price": "650"
+    }
+  ],
+   "breaks": [
+    {
+      "type": "Cantilever",
+      "price": "300"
+    },
+    {
+      "type": "V",
+      "price": "350"
+    },
+    {
+      "type": "Roller",
+      "price": "250"
+    },
+    {
+      "type": "Disc",
+      "price": "700"
+    },
+    {
+      "type": "Hydraulic",
+      "price": "350"
+    }
+  ]
+}
